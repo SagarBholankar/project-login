@@ -33,7 +33,7 @@ label {
 		
 				steps {
 						
-						sh "scp -r target/LoginWebApp.war saccount@10.0.2.51:/data/project/wars"
+						sh "scp -r target/LoginWebApp.war saccount@10.0.0.26:/data/project/wars"
 
 						}
 				
